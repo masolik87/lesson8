@@ -1,0 +1,15 @@
+G:\GB\Seminar\Homework\lesson8\task54\bin\Debug\net6.0\task54.exe
+G:\GB\Seminar\Homework\lesson8\task54\bin\Debug\net6.0\task54.deps.json
+G:\GB\Seminar\Homework\lesson8\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+G:\GB\Seminar\Homework\lesson8\task54\bin\Debug\net6.0\task54.dll
+G:\GB\Seminar\Homework\lesson8\task54\bin\Debug\net6.0\task54.pdb
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\task54.dll
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\refint\task54.dll
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\task54.pdb
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
+G:\GB\Seminar\Homework\lesson8\task54\obj\Debug\net6.0\ref\task54.dll
